@@ -11,6 +11,10 @@ Some of the projects I have completed for university coursework include:
 - Operating System Process Scheduling 
 - Building a compiler (LL1 language)
 
+
+My favourite personal project is an HTTP Server I built in C:
+https://github.com/leomischker/HTTP-Server
+
 <!--
 **leomischker/leomischker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
